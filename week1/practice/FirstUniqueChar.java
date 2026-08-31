@@ -1,4 +1,4 @@
-package week1.assignments;
+package week1.practice;
 import java.util.*;
 
 public class FirstUniqueChar {

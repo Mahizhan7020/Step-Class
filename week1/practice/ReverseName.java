@@ -1,4 +1,4 @@
-package week1.assignments;
+package week1.practice;
 public class ReverseName {
     static String reverseCustomerName(String customerName){
         return new StringBuilder(customerName).reverse().toString();
