@@ -1,4 +1,4 @@
-package week1.assignments;
+package week1.practice;
 
 public class PalindromeCheck {
     static boolean isPalindromeIterative(String text){
